@@ -1,6 +1,6 @@
 # Elements
 
-The major components in Chef are
+The main elements of the Chef framework are
 
 * Chef server
 * Chef Workstation
