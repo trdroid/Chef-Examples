@@ -1,4 +1,4 @@
-# Components
+# Elements
 
 The major components in Chef are
 
