@@ -19,3 +19,14 @@ Unpacking chefdk (0.19.6-1) ...
 Setting up chefdk (0.19.6-1) ...
 Thank you for installing Chef Development Kit!
 ```
+
+```sh
+droid@droidserver:~/onGit/Chef-Tryouts$ which chef
+/usr/bin/chef
+droid@droidserver:~/onGit/Chef-Tryouts$ chef -v
+Chef Development Kit Version: 0.19.6
+chef-client version: 12.15.19
+delivery version: master (802e801d920ea6b6d48db735aa7c6e7a6194bea4)
+berks version: 5.1.0
+kitchen version: 1.13.2
+```
